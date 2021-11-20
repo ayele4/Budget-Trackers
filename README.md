@@ -6,23 +6,22 @@ The user will ba able to add expenses and deposits to their budget without a con
 
 Offline Functionality
 
-** Enter deposits offline
-
-** Enter expenses offline
+- Enter deposits offline
+- Enter expenses offline
 
 When brout back online:
 
-    ** Offline entries should be addedto tracker.
+    - Offline entries should be addedto tracker.
 
 # Technology Used
 
-    - [HTML](#html)
-    - [CSS](#css)
-    - [JavaScript](#javascrpit)
-    - [MongoDB](#mongodb)
-    - [Mongoose](#mongoose)
-    - [Express.js](#express.js)
-    - [Heroku](#heroku)
+    - [HTML]
+    - [CSS]
+    - [JavaScript]
+    - [MongoDB]
+    - [Mongoose]
+    - [Express.js]
+    - [Heroku]
 
  # Deployment
 
