@@ -18,7 +18,7 @@ When brout back online:
 
     - [HTML](#html)
     - [CSS](#css)
-    - [JavaScript](#gavascrpit)
+    - [JavaScript](#javascrpit)
     - [MongoDB](#mongodb)
     - [Mongoose](#mongoose)
     - [Express.js](#express.js)
