@@ -11,7 +11,7 @@ Offline Functionality
 
 When brout back online:
 
-    - Offline entries should be addedto tracker.
+    * Offline entries should be addedto tracker.
 
 # Technology Used
 
