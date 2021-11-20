@@ -15,15 +15,13 @@ When brout back online:
 
 # Technology Used
 
-    - HTML
-    
-    - CSS
-    
-    - Mongoose
-    
-    - Express.js 
-    
-    - (Heroku
+    * HTMl
+    * CSS
+    * Mongodb
+    * Mongoose
+    * JavaScript.js
+    * Express.js 
+    * (Heroku
 
  # Deployment
 
