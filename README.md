@@ -6,13 +6,12 @@ The user will ba able to add expenses and deposits to their budget without a con
 
 Offline Functionality
 
-** Enter deposits offline
-
-** Enter expenses offline
+- Enter deposits offline
+- Enter expenses offline
 
 When brout back online:
 
-    ** Offline entries should be addedto tracker.
+    - Offline entries should be addedto tracker.
 
 # Technology Used
 
