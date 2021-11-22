@@ -16,13 +16,13 @@ When brout back online:
 
 # Technology Used
 
-    - [HTML](#html)
-    - [CSS](#css)
-    - [JavaScript](#gavascrpit)
-    - [MongoDB](#mongodb)
-    - [Mongoose](#mongoose)
-    - [Express.js](#express.js)
-    - [Heroku](#heroku)
+    * [HTML](#html)
+    * [CSS](#css)
+    * [JavaScript](#gavascrpit)
+    * [MongoDB](#mongodb)
+    * [Mongoose](#mongoose)
+    * [Express.js](#express.js)
+    * [Heroku](#heroku)
 
  # Deployment
 
