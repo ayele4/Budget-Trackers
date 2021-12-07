@@ -25,8 +25,6 @@ When brout back online:
 
  # Deployment
  
- https://ayele4.github.io/Budget-Trackers/
- 
  # screenshoots
  <img width="1368" alt="Screen Shot 2021-12-06 at 7 43 50 PM" src="https://user-images.githubusercontent.com/84227686/144962717-ec88ee14-8594-4bf5-8045-281415c31514.png">
 
